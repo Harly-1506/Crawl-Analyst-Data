@@ -25,6 +25,10 @@ Welcome to my repo. This is my project I was study by myself. I wanna share with
 python run getting_data.py
 ```
 
+### Update July 16, 2022
+
+* Fixing bug when getting data of student national high school exam scores.
+
 _____
 
 **If you like  this repo, just star to support me** :star:
